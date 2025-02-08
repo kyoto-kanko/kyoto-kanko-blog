@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "kyoto-kanko-blog"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "京都観光の開発メモ"
+  text: "（仮）"
+  tagline: "（仮）"
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
