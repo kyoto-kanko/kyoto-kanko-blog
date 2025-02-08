@@ -3,22 +3,19 @@
 layout: home
 
 hero:
-  name: "京都観光の開発メモ"
-  text: "（仮）"
-  tagline: "（仮）"
+  name: KyotoKanko
+  text: TechBlog
+  tagline: ""
+  image:
+    src: "https://avatars.githubusercontent.com/u/81737141?v=4"
+    style: "border-radius: 50%;"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 最新の記事を読んでみる
+      link: /1
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: "Tailwind CSS をアップデートしたらビルドエラーが発生した"
+    details: Frontend
+    link: /1
 ---
