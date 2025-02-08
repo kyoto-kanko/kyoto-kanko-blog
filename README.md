@@ -1,0 +1,1 @@
+# kyoto-kanko-blog
