@@ -7,7 +7,7 @@ hero:
   text: TechBlog
   tagline: ""
   image:
-    src: "public/other/top-icon.png"
+    src: "other/top-icon.png"
     style: "border-radius: 50%;"
   actions:
     - theme: brand

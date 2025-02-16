@@ -7,7 +7,7 @@ export default defineConfig({
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   themeConfig: {
     footer: {
-      message: "© 2024 KyotoKnako TechBlog. All rights reserved.",
+      message: "© 2024 KyotoKanko TechBlog. All rights reserved.",
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
