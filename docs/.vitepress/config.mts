@@ -3,8 +3,8 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "KyotoKanko TechBlog",
-  lang: 'ja',
   description: "KyotoKanko TechBlog",
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   themeConfig: {
     footer: {
       message: "© 2024 KyotoKnako TechBlog. All rights reserved.",
