@@ -2,12 +2,12 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "KyotoKanko TechBlog",
-  description: "KyotoKanko TechBlog",
+  title: "KyotoKankoTechBlog",
+  description: "KyotoKankoTechBlog",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   themeConfig: {
     footer: {
-      message: "© 2024 KyotoKanko TechBlog. All rights reserved.",
+      message: "© 2024 KyotoKankoTechBlog. All rights reserved.",
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
