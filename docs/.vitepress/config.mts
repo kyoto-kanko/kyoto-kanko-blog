@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'ja-JP',
   title: "KyotoKankoTechBlog",
   description: "KyotoKankoTechBlog",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
@@ -24,6 +25,16 @@ export default defineConfig({
           {
             text: "購入したドメインをIPアドレスに紐付ける",
             link: "network/2",
+          }
+        ],
+      },
+      {
+        text: "Security",
+        collapsed: false,
+        items: [
+          {
+            text: "サブドメインテイクオーバーにご注意を",
+            link: "security/1",
           }
         ],
       },
