@@ -53,7 +53,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: "",
+            text: "Builderパターン、使ってますか？",
             link: "backend/1",
           },
         ],
